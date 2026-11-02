@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^4.7.1",
-    "@npmcli/package-json": "7.0.5",
+    "@npmcli/package-json": "8.0.0",
     "@turbo/gen": "^2.9.10",
     "@types/npmcli__package-json": "4.0.4",
     "chalk": "catalog:",
